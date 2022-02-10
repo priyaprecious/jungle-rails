@@ -26,6 +26,16 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
+## Final Product
+
+![screenshot user_login](https://github.com/priyaprecious/jungle-rails/blob/master/docs/user-login-page.PNG)
+
+![screenshot user_signup](https://github.com/priyaprecious/jungle-rails/blob/master/docs/signup-page.PNG)
+
+![screenshot admin_categories](https://github.com/priyaprecious/jungle-rails/blob/master/docs/admin-categories.PNG)
+
+![screenshot admin_dashboard](https://github.com/priyaprecious/jungle-rails/blob/master/docs/admin-dashboard.PNG)
+
 ## Dependencies
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
